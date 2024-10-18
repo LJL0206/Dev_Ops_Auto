@@ -13,7 +13,7 @@ jobs:
       steps:
         - uses: actions/checkout@v4
         - name: README Activity Update      
-          uses: LJL0206/activity-log@T1
+          uses: LJL0206/activity-log@T5
           with:
             GITHUB_USERNAME: "LJL0206"
             TARGET_REPOS: '[LJL0206/Dev_Ops_Auto_202410]'
