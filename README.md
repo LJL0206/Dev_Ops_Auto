@@ -83,5 +83,4 @@
 79. 📥 Opened [PR #4](https://github.com/LJL0206/DevOps_Homework/pull/4) in [LJL0206/DevOps_Homework](https://github.com/LJL0206/DevOps_Homework)
 80. 📝 Committed to [LJL0206/DevOps_Homework](https://github.com/LJL0206/DevOps_Homework/commit/bafd14ff0fa43cba000627a4b827f7da0f0274ff)
 81. 📝 Committed to [LJL0206/DevOps_Homework](https://github.com/LJL0206/DevOps_Homework/commit/48bdb11308b5a07c8e3c479e6d46bb7c71931ac3)
-82. 🔀 Merged [PR #3](https://github.com/LJL0206/DevOps_Homework/pull/3) in [LJL0206/DevOps_Homework](https://github.com/LJL0206/DevOps_Homework)
 <!--END_SECTION:activity-->
