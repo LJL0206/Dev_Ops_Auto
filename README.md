@@ -69,5 +69,4 @@
 65. 🔀 Merged [PR #2](https://github.com/LJL0206/Dev_Ops_Auto_202410/pull/2) in [LJL0206/Dev_Ops_Auto_202410](https://github.com/LJL0206/Dev_Ops_Auto_202410)
 66. 📥 Opened [PR #2](https://github.com/LJL0206/Dev_Ops_Auto_202410/pull/2) in [LJL0206/Dev_Ops_Auto_202410](https://github.com/LJL0206/Dev_Ops_Auto_202410)
 67. 📝 Committed to [LJL0206/Dev_Ops_Auto_202410](https://github.com/LJL0206/Dev_Ops_Auto_202410/commit/24dec949f607db8d846eb1e930fa7e8f32e3a232)
-68. ➕ Created a new branch [`HW-2-As-a-developer-i-want-GitHub-to-automatically-update-my-READ.ME-to-include-Recent-Activity`](https://github.com/LJL0206/Dev_Ops_Auto_202410/tree/HW-2-As-a-developer-i-want-GitHub-to-automatically-update-my-READ.ME-to-include-Recent-Activity) in [LJL0206/Dev_Ops_Auto_202410](https://github.com/LJL0206/Dev_Ops_Auto_202410)
 <!--END_SECTION:activity-->
