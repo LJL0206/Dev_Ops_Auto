@@ -81,5 +81,4 @@
 77. ❌ Closed an issue [#5](https://github.com/LJL0206/DevOps_Homework/issues/5) in [LJL0206/DevOps_Homework](https://github.com/LJL0206/DevOps_Homework)
 78. 🆕 Opened an issue [#5](https://github.com/LJL0206/DevOps_Homework/issues/5) in [LJL0206/DevOps_Homework](https://github.com/LJL0206/DevOps_Homework)
 79. 📥 Opened [PR #4](https://github.com/LJL0206/DevOps_Homework/pull/4) in [LJL0206/DevOps_Homework](https://github.com/LJL0206/DevOps_Homework)
-80. 📝 Committed to [LJL0206/DevOps_Homework](https://github.com/LJL0206/DevOps_Homework/commit/bafd14ff0fa43cba000627a4b827f7da0f0274ff)
 <!--END_SECTION:activity-->
