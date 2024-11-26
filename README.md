@@ -78,5 +78,4 @@
 74. 📝 Committed to [LJL0206/Dev_Ops_Auto_202410](https://github.com/LJL0206/Dev_Ops_Auto_202410/commit/cf93f43958d591f0c8c418e303055bad308c1640)
 75. ➕ Created a new branch [`main`](https://github.com/LJL0206/Dev_Ops_Auto/tree/main) in [LJL0206/Dev_Ops_Auto](https://github.com/LJL0206/Dev_Ops_Auto)
 76. 🎉 Created a new repository [LJL0206/Dev_Ops_Auto](https://github.com/LJL0206/Dev_Ops_Auto)
-77. ❌ Closed an issue [#5](https://github.com/LJL0206/DevOps_Homework/issues/5) in [LJL0206/DevOps_Homework](https://github.com/LJL0206/DevOps_Homework)
 <!--END_SECTION:activity-->
