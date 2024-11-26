@@ -72,5 +72,4 @@
 68. ➕ Created a new branch [`HW-2-As-a-developer-i-want-GitHub-to-automatically-update-my-READ.ME-to-include-Recent-Activity`](https://github.com/LJL0206/Dev_Ops_Auto_202410/tree/HW-2-As-a-developer-i-want-GitHub-to-automatically-update-my-READ.ME-to-include-Recent-Activity) in [LJL0206/Dev_Ops_Auto_202410](https://github.com/LJL0206/Dev_Ops_Auto_202410)
 69. 🗑️ Deleted a branch `HW-2-As-a-developer-i-want-GitHub-to-automatically-update-my-READ.ME-to-include-Recent-Activity` in [LJL0206/Dev_Ops_Auto_202410](https://github.com/LJL0206/Dev_Ops_Auto_202410)
 70. 📝 Committed to [LJL0206/Dev_Ops_Auto_202410](https://github.com/LJL0206/Dev_Ops_Auto_202410/commit/cf93f43958d591f0c8c418e303055bad308c1640)
-71. 🔀 Merged [PR #1](https://github.com/LJL0206/Dev_Ops_Auto_202410/pull/1) in [LJL0206/Dev_Ops_Auto_202410](https://github.com/LJL0206/Dev_Ops_Auto_202410)
 <!--END_SECTION:activity-->
