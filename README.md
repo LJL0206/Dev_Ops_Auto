@@ -35,5 +35,4 @@
 31. 📝 Committed to a private repo
 32. 📝 Committed to a private repo
 33. 🗣 Commented on an issue in a private repo
-34. 📥 Opened a PR in a private repo
 <!--END_SECTION:activity-->
