@@ -38,5 +38,4 @@
 34. 📥 Opened a PR in a private repo
 35. 📝 Committed to a private repo
 36. ➕ Created a new branch `2-design-website-and-digital-schedule` in a private repo
-37. ❌ Closed an issue [#1](https://github.com/LJL0206/DevOps20241025/issues/1) in [LJL0206/DevOps20241025](https://github.com/LJL0206/DevOps20241025)
 <!--END_SECTION:activity-->
