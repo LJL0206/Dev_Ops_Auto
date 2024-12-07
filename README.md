@@ -37,5 +37,4 @@
 33. 🗣 Commented on an issue in a private repo
 34. 📥 Opened a PR in a private repo
 35. 📝 Committed to a private repo
-36. ➕ Created a new branch `2-design-website-and-digital-schedule` in a private repo
 <!--END_SECTION:activity-->
