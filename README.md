@@ -45,5 +45,4 @@
 41. 🆕 Opened an issue [#1](https://github.com/LJL0206/DevOps20241025/issues/1) in [LJL0206/DevOps20241025](https://github.com/LJL0206/DevOps20241025)
 42. 📝 Committed to [LJL0206/DevOps20241025](https://github.com/LJL0206/DevOps20241025/commit/5fdd3d957c3b44cc2945d6a01cc9cac6f0ef0982)
 43. ➕ Created a new branch [`main`](https://github.com/LJL0206/DevOps20241025/tree/main) in [LJL0206/DevOps20241025](https://github.com/LJL0206/DevOps20241025)
-44. 🎉 Created a new repository [LJL0206/DevOps20241025](https://github.com/LJL0206/DevOps20241025)
 <!--END_SECTION:activity-->
