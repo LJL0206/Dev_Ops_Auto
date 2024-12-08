@@ -35,5 +35,4 @@
 31. ➕ Created a new branch [`main`](https://github.com/LJL0206/WebApp/tree/main) in [LJL0206/WebApp](https://github.com/LJL0206/WebApp)
 32. 🎉 Created a new repository [LJL0206/WebApp](https://github.com/LJL0206/WebApp)
 33. 🔎 Reviewed [PR #2](https://github.com/odeliadenise/QuickChef/pull/2) in [odeliadenise/QuickChef](https://github.com/odeliadenise/QuickChef)
-34. 📥 Opened a PR in a private repo
 <!--END_SECTION:activity-->
