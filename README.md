@@ -33,5 +33,4 @@
 29. 📝 Committed to [odeliadenise/QuickChef](https://github.com/odeliadenise/QuickChef/commit/ef1b3e3f169b8ac5cd3d9a3fe3f1f27f8b98a121)
 30. 📝 Committed to [odeliadenise/QuickChef](https://github.com/odeliadenise/QuickChef/commit/238112700b74aaa908473c3913653168706c2ece)
 31. 📝 Committed to [LJL0206/WebApp](https://github.com/LJL0206/WebApp/commit/96dc803ca941becb91d4732811463eb55ddd494d)
-32. 📝 Committed to [LJL0206/WebApp](https://github.com/LJL0206/WebApp/commit/566a52ac154ee49e45c33a533e0b85f9b4e606e3)
 <!--END_SECTION:activity-->
